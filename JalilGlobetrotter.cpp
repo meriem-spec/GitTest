@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello I am JalilGlobetrotter";
+    cout << "I've participated in The Game's developers program!";
     return 0;
 }
